@@ -22,6 +22,7 @@ Local Image Integration:
 Incorporated product images using local file paths for development purposes.
 
 Technologies Used:
+
 HTML5: Structured the content and layout of the landing page.
 
 CSS3: Styled the page elements, including responsive design, hover effects, and layout adjustments.
