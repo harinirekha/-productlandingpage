@@ -1,5 +1,6 @@
 Productlandingpage
 Developed a responsive product landing page for an e-commerce website showcasing a variety of fashion products, including kurtis, sarees, palazzo sets, and frocks. This project demonstrates proficiency in HTML and CSS for creating a visually appealing and user-friendly interface.
+
 "Key Features"
 
 Responsive Design:
